@@ -73,7 +73,7 @@ def test_is_palindrome():
 while True:
     testisPrime()
     test_get_largest_prime_below()
-    test_is_palindrome
+    test_is_palindrome()
     print("1. Determinati cel mai mare numar prim mai mic decat un numar dat.")
     print ("2. Verificati daca un numar este palindrom")
     print ("x. Iesire")
